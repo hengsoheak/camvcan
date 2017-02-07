@@ -16,6 +16,9 @@
  * @link https://codex.wordpress.org/Editing_wp-config.php
  *
  * @package WordPress
+ * /login
+ * UserName : camvcan
+ * Password : @LF$YCJ8QZejzF1L(QGiPowo
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
