@@ -1,0 +1,211 @@
+# LANGUAGE (LOCALE) translation for NextGEN Gallery Image Chooser.
+# Copyright (C) 2012 umertin.
+# This file is distributed under the same license as the plugin.
+# FIRST AUTHOR mail ÄT ulrich-mertin PUNKT de, 2012.
+#
+#, fuzzy
+"POT-Creation-Date: 21.0.06-20 19:07+0100\n"
+"PO-Revision-Date: 21.0.06-20 19:07+0100\n"
+"Last-Translator: Ulrich Mertin <mail ÄT ulrich-mertin PUNKT de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Required NextGEN Gallery was not found!"
+msgstr ""
+
+msgid "Thumbnail with link to image"
+msgstr ""
+
+msgid "Thumbnail with link to custom URL (from text box below)"
+msgstr ""
+
+msgid "Thumbnail only - no link"
+msgstr ""
+
+msgid "Fullsized image only - no link"
+msgstr ""
+
+msgid "Text link to image"
+msgstr ""
+
+msgid "HTML"
+msgstr ""
+
+msgid "NGG tag of image"
+msgstr ""
+
+msgid "NGG tag of thumbnail"
+msgstr ""
+
+msgid "NGG tag of multiple thumbnails"
+msgstr ""
+
+msgid "NextGEN Gallery Image Chooser"
+msgstr ""
+
+msgid "NextGEN Gallery Image Chooser Options"
+msgstr ""
+
+msgid "About NextGEN Gallery Image Chooser"
+msgstr ""
+
+msgid "Expand all"
+msgstr ""
+
+msgid "Collapse all"
+msgstr ""
+
+msgid "Gallery"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Float Left"
+msgstr ""
+
+msgid "Float Right"
+msgstr ""
+
+msgid "Insertion Options"
+msgstr ""
+
+msgid "How to Insert Image"
+msgstr ""
+
+msgid "Custom URL"
+msgstr ""
+
+msgid "Text for text link"
+msgstr ""
+
+msgid "Image width x  height (Leave blank for the original size)"
+msgstr ""
+
+msgid "Link (Leave blank for none)"
+msgstr ""
+
+msgid "NGG Float Class"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Watermark"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Template name (Leave blank for the default template)"
+msgstr ""
+
+msgid "Press button to insert checked image(s)"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Check all"
+msgstr ""
+
+msgid "Uncheck all"
+msgstr ""
+
+msgid "NextGEN Gallery order"
+msgstr ""
+
+msgid "NextGEN Gallery Title (A-z)"
+msgstr ""
+
+msgid "NextGEN Gallery Title (z-A)"
+msgstr ""
+
+msgid "Origination Time (Newest First)"
+msgstr ""
+
+msgid "Origination Time (Oldest First)"
+msgstr ""
+
+msgid "Display Options"
+msgstr ""
+
+msgid "Sorted by:"
+msgstr ""
+
+msgid "Per Page:"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Thumbnails"
+msgstr ""
+
+msgid "Thumbnails with info"
+msgstr ""
+
+msgid "There are no photos in this album.<br /><br />Please pick another album from the navigation options above."
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Summary:"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Page Navigation:"
+msgstr ""
+
+msgid "Page:"
+msgstr ""
+
+msgid "Insert a NGG tag for the current gallery:"
+msgstr ""
+
+msgid "Set the template name in \"Insertion Options\" below"
+msgstr ""
+
+msgid "Insert gallery as image browser"
+msgstr ""
+
+msgid "Image sort order"
+msgstr ""
+
+msgid "Default image size (W x H)"
+msgstr ""
+
+msgid "Define width and/or height of the fullsized image. Leave blank for original size."
+msgstr ""
+
+msgid "Images per page"
+msgstr ""
+
+msgid "Define how many images should be displayed on one page."
+msgstr ""
+
+msgid "NGG float class"
+msgstr ""
+
+msgid "Define whether fullsized images should be floating."
+msgstr ""
+
+msgid "Display image infomation"
+msgstr ""
+
+msgid "Enables displaying of image information together with thumbnails."
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Update successful"
+msgstr ""
+
+msgid "Select the image display mode."
+msgstr ""
+

@@ -1,0 +1,52 @@
+== Change log ==
+
+= 2.0.1 =
+* Added : Options to change Read More and Know More
+
+= 2.0.0 =
+* Added : Upgrade to Pro
+* Fix: Minor Bug
+
+= 1.0.9 =
+* Fix: Minor Bug
+
+= 1.0.8 =
+* Added : Sticky Menu Enable/Disable
+* Added : Active/Hover Menu Options
+
+= 1.0.7 =
+* Update : Screenshot with WooCommerce icon and search icon
+* Fix: Minor bug fixes
+
+= 1.0.6 =
+* Update : Feature Section Widgets
+* Fix: Minor bug fixes
+
+= 1.0.5 =
+* Added : New widgets
+* Remove : Custom CSS in favor of WP 4.7
+* Fix: CSS tweaks
+* Fix: Minor bug fixes
+
+= 1.0.4 =
+* Fix: Minor Bug
+
+= 1.0.3 =
+* Fix: Comment Listing
+* Fix: Minor CSS
+
+= 1.0.2 =
+* Fix: Comment Listing
+* Fix: Minor CSS
+
+= 1.0.1 =
+* Fix: Minor Bug
+
+= 1.0.0 =
+* Update: Extend theme Customizer options
+* Added : Custom widgets
+* Added : WooCommerce Supports
+* Fix: Fixed and Extended CSS
+
+= 0.0.1 =
+* Submitted to WordPress.org

@@ -1,0 +1,4 @@
+[23-Dec-2016 17:12:53 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/camvcan/public_html/wp-includes/load.php on line 316
+[19-Jan-2017 04:40:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/camvcan/public_html/wp-content/plugins/live-composer-page-builder/includes/single-templates-framework/inc/filters.php on line 314
+[19-Jan-2017 04:40:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/camvcan/public_html/wp-content/plugins/live-composer-page-builder/includes/single-templates-framework/inc/filters.php on line 314
+[19-Jan-2017 04:41:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/camvcan/public_html/wp-content/plugins/live-composer-page-builder/includes/single-templates-framework/inc/filters.php on line 314

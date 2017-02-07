@@ -1,0 +1,93 @@
+/*
+ Theme Name:   MegaMag
+ Theme URI:    http://themes4wp.com/theme/megamag/
+ Description:  MegaMag is free magazine WordPress theme excellent for a magazine, news, newspaper, review, blog or other editorial websites. MegaMag is child theme of First Mag - free responsive magazine WordPress Theme. Theme support WP Review plugin, an easy and powerful way to review content with stars, percentages or points rating. WooCommerce support is included. MegaMag uses simple, clean flat design, is fully responsive and looks good on every device. Check the demo at http://demo.themes4wp.com/megamag/
+ Author:       Themes4WP
+ Author URI:   http://themes4wp.com/
+ Template:     first-mag
+ Version:      1.0.0
+ License:      GNU General Public License v3 or later
+ License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+ Tags:         one-column, two-columns, three-columns, right-sidebar, left-sidebar, custom-background, custom-menu, featured-images, flexible-header, theme-options, threaded-comments, translation-ready, news
+ Text Domain:  megamag
+*/
+
+.rsrc-header, .rsrc-content, .rsrc-right, .rsrc-left, .rsrc-main, .fullwidth-ad-section, .rsrc-container {
+    background-color: #373737;
+}
+.home-header .page-header a, .page-header {
+    color: #ffffff;
+}
+body, .entry-summary {
+    color: #f8f8f8;
+}
+.rsrc-header-text {
+    padding-bottom: 15px;
+}
+.rsrc-header-img {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+input, optgroup, select, textarea, .wp-caption {
+    color: #222222;
+}
+.flex-meta i {
+    margin-right: 5px;
+}
+/* Boxed widgets */
+h3.widget-title {
+    padding-bottom: 0;
+    border-bottom: 3px solid #27ff00;
+    color: #fff;
+}
+h3.widget-title .title-text:before {display: none;}
+
+h3.widget-title .title-text {
+    background-color: #27ff00;
+    padding: 5px 15px 2px;
+}
+a {
+    color: #45be2f;
+}
+a:hover, a:focus {
+    color: #148200;
+}
+a:focus, .review-result, .top-section, a.close-me, a:focus, .text-primary, .btn-primary .badge, .btn-link, .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > .active > a:focus, .pagination > li > a, .pagination > li > span, .list-group-item.active > .badge, .nav-pills > .active > a > .badge, .panel-primary > .panel-heading .badge, .btn-primary.outline:active, .btn-primary.outline.active, .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    color: #27ff00;
+}
+
+.navigation.pagination, .btn-warning, #wp-calendar #prev a, #wp-calendar #next a, .newForm.focus:before, .newForm.focus:after, .home-icon.front_page_on, .page-header:before, .comment-reply-link:hover, .btn-success, .comment-reply-link, .top-section, .bg-primary, .btn-primary, .label-primary, .top-section, .first-textarea, #back-top span, .btn-info, .comment-respond #submit, #searchform #searchsubmit, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus, #searchform #searchsubmit:hover, .comment-respond #submit:hover {
+    background-color: #27ff00;
+} 
+
+.btn-warning, #wp-calendar #prev a, #wp-calendar #next a, .rsrc-top-menu, .home-icon.front_page_on, .widget_tab_posts .nav-tabs > li > a:before, blockquote, h3.widget-title .title-text:before, .rsrc-author-credits, #slidebox, .pagination > .active > span:hover, .pagination > .active > span, .comment-reply-link:hover, .btn-success, .comment-reply-link, .hover-style .home-header, .hover-style .page-header, .btn-primary.outline:active, .btn-primary.outline.active, .btn-primary.outline, .btn-info, .comment-respond #submit, #searchform #searchsubmit, #searchform #searchsubmit:hover, .comment-respond #submit:hover {
+    border-color: #27ff00;
+}
+
+.front-page-content, .archive-content, .widget, .rsrc-post-content {
+    border-bottom-color: #27ff00;
+}
+.featured-thumbnail img { 
+    width: 100%; 
+    border: 1px solid rgba(0, 0, 0, 0.11); 
+    padding: 2px;
+}
+.rsrc-author-credits {
+    background-color: #191919;
+}
+
+/* Homepage Carousel */
+#carousel-home .flex-caption .entry-summary {
+    line-height: 20px;
+}
+#carousel-home .flex-caption .home-header .page-header a, #carousel-home .home-header .page-header {
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+#carousel-home {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 0;
+    padding: 15px 30px;
+}
