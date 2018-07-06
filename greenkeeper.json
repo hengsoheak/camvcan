@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "wp-content/plugins/live-composer-page-builder/package.json"
+      ]
+    }
+  }
+}
